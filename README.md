@@ -4,7 +4,7 @@ Este é um sistema de gestão de produtos desenvolvido em duas versões diferent
 
 ## Funcionalidades
 
-Ambas as versões do sistema oferecem as seguintes funcionalidades:
+Aas versões do sistema oferecem as seguintes funcionalidades:
 
 - Importação de produtos.
 - Listagem de produtos.
